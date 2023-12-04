@@ -1,5 +1,6 @@
 # google admob
 google.com, pub-4034997535728810, DIRECT, f08c47fec0942fa0
+google.com, pub-8866654859419315, DIRECT, f08c47fec0942fa0
 
 # applovin
 applovin.com, e9c63346e1fd1e27d3a6b262ed7b1ca2, DIRECT
