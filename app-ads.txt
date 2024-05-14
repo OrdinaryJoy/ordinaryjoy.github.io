@@ -783,6 +783,114 @@ inmobi.com, edd282ac8f29464792bf2b7f3df2f9df, RESELLER, 83e75a7ae333ca9d
 smartadserver.com, 4610, RESELLER, 060d053dcf45cbf3
 ignitemediatech.com, pub_1001, RESELLER
 lijit.com, 367217, RESELLER, fafdf38b16bf6b2b
+adform.com, 2742, RESELLER
+contextweb.com, 563265, RESELLER, 89ff185a4c4e857c
+vidoomy.com, 7646534, DIRECT
+axonix.com, 59054, RESELLER, bc385f2b4a87b721
+programmaticx.ai, 6845438, RESELLER
+themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
+inmobi.com, 30eb9116886a497db0c502e8cf0aa4d3, RESELLER, 83e75a7ae333ca9d
+thunder-monetize.com, 2297825074, RESELLER
+thunder-monetize.com, 3692155372, RESELLER
+thunder-monetize.com, 3905806597, RESELLER
+alpecs.com, 5656395907, RESELLER
+connekt.ai, 7343318920, RESELLER
+houseofpubs.com, 3800226559, RESELLER
+pubmatic.com, 164146, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163038, RESELLER, 5d62403b186f2ace
+themediagrid.com, 7MYRZ3, RESELLER, 35d5010d7789b49d
+criteo.com, B-072581, RESELLER, 9fac4a4a87c2a44f
+ignitemediatech.com, pub_11112, RESELLER
+lijit.com, 483304, RESELLER, fafdf38b16bf6b2b
+whildey.com, 5541841875, RESELLER
+adnuro.com, 2882096573, RESELLER
+newsusadigital.com, 1001719521, RESELLER
+balloonlabs.ai, 9173515033, RESELLER
+advanttechnology.com, 1126183541, RESELLER
+aluna.co, 2335974998, RESELLER
+boostappi.com, 3038253635, RESELLER
+alpineinteractivegroup.com, 9263716895, RESELLER
+pubmatic.com, 162449, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163652, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161325, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159351, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163558, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159499, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162402, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161559, RESELLER, 5d62403b186f2ace
+caerulus.io, 3320-39849, RESELLER
+lacunads.com, LC136f79e999464edc, RESELLER
+ads.vk.com, 18644219, RESELLER
+sonobi.com, f23858a5df, RESELLER, d1a215d9eb5aee9e
+improvedigital.com, 1234, RESELLER
+conversantmedia.com, 100394, RESELLER, 03113cd04947736d
+conversantmedia.com, 100374, RESELLER, 03113cd04947736d
+conversantmedia.com, 100386, RESELLER, 03113cd04947736d
+inmobi.com, 2ce1d976516340a49b12e59749659864, RESELLER, 83e75a7ae333ca9d
+smaato.com, 1100051000, RESELLER, 07bcf65f187117b4
+smaato.com, 1100050739, RESELLER, 07bcf65f187117b4
+smartstream.tv, 667, RESELLER
+smartstream.tv, 673, RESELLER
+triplelift.com, 13012, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 1058378980, RESELLER
+pubmatic.com, 161582, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 682817271102171104, RESELLER
+video.unrulymedia.com, 1286320118, RESELLER
+smartclip.net, 12358, RESELLER
+smartclip.net, 12422, RESELLER
+whildey.com, 6401127138, RESELLER
+advanttechnology.com, 2142690699, RESELLER
+goldbach-germany.de, Connekt, RESELLER
+tremorhub.com, 9l6ha-9w3wc, RESELLER, 1a4e959a1b50034a
+telaria.com, 9l6ha-9w3wc, RESELLER, 1a4e959a1b50034a
+xandr.com, 15769, RESELLER
+appnexus.com, 15769, RESELLER, f5ab79cb980f11d1
+smartyads.com, 300045, RESELLER, fd2bde0ff2e62c5d
+video.unrulymedia.com, 645663965, RESELLER
+advertising.com, 23089, RESELLER
+advertising.com, 28605, RESELLER
+appnexus.com, 12637, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9382, RESELLER, f5ab79cb980f11d1
+google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0
+google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
+pubmatic.com, 159277, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161335, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160993, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161058, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 13918, RESELLER, 0bfd66d529a55807
+synacor.com, 82171, RESELLER, e108f11b2cdf7d5b
+yahoo.com, 59244, RESELLER
+loopme.com, 9718, RESELLER, 6c8d5f95897a5a3b
+Improvedigital.com, 1699, RESELLER
+openx.com, 543878511, RESELLER, 6a698e2ec38604c6
+bidease.com, bidease_seller_34, RESELLER
+tredio.io, 357a6fdf7642bf815a88822c447d9dc433546, RESELLER
+video.unrulymedia.com, 819070080, RESELLER
+bold-win.com, 807, RESELLER, 71746737d0bab951
+flat-ads.com, 2196901, RESELLER
+criteo.com, B-071797, RESELLER, 9fac4a4a87c2a44f
+themediagrid.com, SH96GF, RESELLER, 35d5010d7789b49d
+lijit.com, 500520, RESELLER, fafdf38b16bf6b2b
+alpecs.com, 2448028124, RESELLER
+aceex.io, 1697, RESELLER
+video.unrulymedia.com, 949394431, RESELLER
+appaspire.com, 97517, RESELLER
+contextweb.com, 563195, RESELLER, 89ff185a4c4e857c
+smaato.com, 1100056110, RESELLER, 07bcf65f187117b4
+onetag.com, 8668c16092f01e8, RESELLER
+ylhglobal.com, 1930587443, RESELLER
+video.unrulymedia.com, 827123801, RESELLER
+rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807
+toponad.com, 1661f80179644e, RESELLER, 1d49fe424a1a456d
+freewheel.tv, 1603124, RESELLER
+
+
+
+
+
+
+
 
 #Liffoff
 vungle.com,[659826dc3d46f60011072e98],DIRECT,c107d686becd2d77
