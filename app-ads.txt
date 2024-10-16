@@ -302,6 +302,50 @@ video.unrulymedia.com, 3630748062, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 3383599585, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 170071695, RESELLER
 video.unrulymedia.com, 995298565, RESELLER
+contextweb.com, 563217, RESELLER, 89ff185a4c4e857c
+eskimi.com, 2020000663, RESELLER
+videoheroes.tv, 212428, RESELLER, 064bc410192443d8
+pubwise.io, 22376824, RESELLER, c327c91a93a7cdd3
+media.net, 8cu12aq1y, RESELLER
+video.unrulymedia.com, 158727213, RESELLER
+toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
+kidoz.net, 14260, RESELLER, a109366414b7335e
+video.unrulymedia.com, 324806554, RESELLER, a670c89d4a324e47
+playdigo.com, 1965, RESELLER, 92011346d63d3c30
+openx.com, 540857594, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 26158, RESELLER, 0bfd66d529a55807
+conversantmedia.com, 100396, RESELLER, 03113cd04947736d
+rubiconproject.com, 26250, RESELLER, 0bfd66d529a55807
+lacunads.com, lcb555b3bc8667a09a, RESELLER
+orangeclickmedia.com, c-1181, RESELLER
+appnexus.com, 15629, RESELLER
+lijit.com, 489963, RESELLER, fafdf38b16bf6b2b
+webeyemob.com, 80029, RESELLER
+improvedigital.com, 2276, RESELLER
+eliteappgrade.com, 494223, RESELLER
+admanmedia.com, 2153, RESELLER
+openx.com, 540861995, RESELLER, 6a698e2ec38604c6
+zmaticoo.com, 5135704, RESELLER
+zmaticoo.com, 5135195, RESELLER
+rubiconproject.com, 26270, RESELLER, 0bfd66d529a55807
+lijit.com, 481366, RESELLER, fafdf38b16bf6b2b
+krushmedia.com, ajxf6r585a9m6catvk, RESELLER
+rubiconproject.com, 25872, RESELLER, 0bfd66d529a55807
+pubmatic.com, 164532, RESELLER, 5d62403b186f2
+lijit.com, 465542, RESELLER, fafdf38b16bf6b2b
+adform.com, 716, RESELLER
+smartadserver.com, 3172, RESELLER, 060d053dcf45cbf3
+lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
+rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
+ignitemediatech.com, pub_11115, RESELLER
+video.unrulymedia.com, 6111915185540403805, RESELLER
+onlinemediasolutions.com, 23120, RESELLER
+mars.media, 1010442, RESELLER, 8624339f102fb076
+rubiconproject.com, 26156, RESELLER, 0bfd66d529a55807
+lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
+ushareit.com, lcb555b3bc8667a09a, RESELLER
+pubmatic.com, 164119, RESELLER, 5d62403b186f2ace
+outbrain.com, 00ab8f68679cc060c8bbc1035e70030614, RESELLER
 
 # mintegral
 mintegral.com, 41390, DIRECT, 0aeed750c80d6423
