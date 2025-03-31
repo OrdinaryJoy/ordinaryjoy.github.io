@@ -54,6 +54,9 @@ xandr.com, 14082, RESELLER
 yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 zmaticoo.com, 5135655, RESELLER
 
+#Meta
+facebook.com, 652965920606196, DIRECT, c3e20eee3f780d68
+
 # ironsource
 ironsrc.com, 301197, Direct
 adbility-media.com, 187, RESELLER
