@@ -1,4 +1,3 @@
-# ordinaryjoy.github.io
 # App Support
 
 Thank you for using our app.
